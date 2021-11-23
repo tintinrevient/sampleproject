@@ -48,3 +48,4 @@ may be appropriate.
 * https://github.com/jazzband/pip-tools
 * https://medium.com/illumination/visualize-dependencies-between-python-modules-d6e8e9a92c50
 * https://stackoverflow.com/questions/66751657/what-does-pip-compile-do-what-is-its-use
+* https://stackoverflow.com/questions/17194301/is-there-any-way-to-show-the-dependency-trees-for-pip-packages
