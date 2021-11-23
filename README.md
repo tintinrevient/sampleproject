@@ -44,3 +44,5 @@ may be appropriate.
 * https://packaging.python.org/overview/
 * https://medium.com/paypal-tech/python-packaging-at-paypal-4a90352a7ca2
 * https://conda.io/projects/conda-build/en/latest/user-guide/tutorials/index.html
+* https://setuptools.pypa.io/en/latest/userguide/quickstart.html
+* https://github.com/jazzband/pip-tools
