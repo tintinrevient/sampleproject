@@ -42,3 +42,4 @@ may be appropriate.
 * https://www.linode.com/docs/guides/how-to-create-a-private-python-package-repository/
 * https://packaging.python.org/guides/distributing-packages-using-setuptools/
 * https://packaging.python.org/overview/
+* https://medium.com/paypal-tech/python-packaging-at-paypal-4a90352a7ca2
