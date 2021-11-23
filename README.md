@@ -46,3 +46,4 @@ may be appropriate.
 * https://conda.io/projects/conda-build/en/latest/user-guide/tutorials/index.html
 * https://setuptools.pypa.io/en/latest/userguide/quickstart.html
 * https://github.com/jazzband/pip-tools
+* https://medium.com/illumination/visualize-dependencies-between-python-modules-d6e8e9a92c50
