@@ -51,3 +51,4 @@ may be appropriate.
 * https://stackoverflow.com/questions/17194301/is-there-any-way-to-show-the-dependency-trees-for-pip-packages
 * https://stackoverflow.com/questions/22241420/execution-of-python-code-with-m-option-or-not
 * https://docs.python.org/3/library/site.html
+* https://stackoverflow.com/questions/19198166/whats-the-difference-between-a-module-and-a-library-in-python
