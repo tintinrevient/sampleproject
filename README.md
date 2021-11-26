@@ -56,3 +56,4 @@ may be appropriate.
 * https://docs.python.org/3.9/py-modindex.html
 * https://stackoverflow.com/questions/11005457/how-do-i-remove-delete-a-virtualenv
 * https://stackoverflow.com/questions/20766684/what-benefit-is-added-by-using-gunicorn-nginx-flask
+* https://wsgi.readthedocs.io/en/latest/frameworks.html
