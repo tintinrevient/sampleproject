@@ -54,3 +54,4 @@ may be appropriate.
 * https://stackoverflow.com/questions/19198166/whats-the-difference-between-a-module-and-a-library-in-python
 * https://stackoverflow.com/questions/69989691/how-to-resolve-attributeerror-module-graphviz-backend-has-no-attribute-encod
 * https://docs.python.org/3.9/py-modindex.html
+* https://stackoverflow.com/questions/11005457/how-do-i-remove-delete-a-virtualenv
