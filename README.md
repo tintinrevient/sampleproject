@@ -52,3 +52,4 @@ may be appropriate.
 * https://stackoverflow.com/questions/22241420/execution-of-python-code-with-m-option-or-not
 * https://docs.python.org/3/library/site.html
 * https://stackoverflow.com/questions/19198166/whats-the-difference-between-a-module-and-a-library-in-python
+* https://stackoverflow.com/questions/69989691/how-to-resolve-attributeerror-module-graphviz-backend-has-no-attribute-encod
