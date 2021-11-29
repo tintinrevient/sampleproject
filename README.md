@@ -60,3 +60,4 @@ may be appropriate.
 * https://realpython.com/introduction-to-python-generators/
 * https://blog.basis-ai.com/introducing-boxkite-open-source-model-observability-for-mlops-teams
 * https://boxkite.ml/en/latest/tutorials/kubeflow-mlflow/
+* https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.make_pipeline.html
