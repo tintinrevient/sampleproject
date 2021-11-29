@@ -59,3 +59,4 @@ may be appropriate.
 * https://wsgi.readthedocs.io/en/latest/frameworks.html
 * https://realpython.com/introduction-to-python-generators/
 * https://blog.basis-ai.com/introducing-boxkite-open-source-model-observability-for-mlops-teams
+* https://boxkite.ml/en/latest/tutorials/kubeflow-mlflow/
